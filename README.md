@@ -8,7 +8,7 @@
 - 😉 Always happy to collaborate on projects
 - 💬 Ask me about WebDev and openSource
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Send a DM if you need 
+- ⚡ Fun fact: Send a DM if you need anything
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
