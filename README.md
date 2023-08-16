@@ -2,14 +2,13 @@
 
 ### About Me 🚨
 
-- 🔭 I’m currently working on my skills
-- 🌱 I’m currently learning React.js
+- 🔭 I’m Software Developer specializing in building frontend applications
+- 🌱 I Love React.js
 - 👯 I’m looking to collaborate on software applications as a Frontend Developer
 - 😉 Always happy to collaborate on projects
 - 💬 Ask me about WebDev and openSource
-- 📫 How to reach me: Twitter: @Theonlyabdull
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Send a DM if you need me
+- ⚡ Fun fact: Send a DM if you need 
 
 ### Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
